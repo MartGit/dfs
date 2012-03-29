@@ -10,6 +10,8 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 
 /**
  * A Simple Java client of App on Google App Engine.
+ * 
+ * Martins Umachi
  *
  */
 public class App {
